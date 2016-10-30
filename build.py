@@ -47,8 +47,6 @@ PAGE_BOTTOM = r"""
 
 <p><i>Contact: <a href="mailto:goodwillhart {at_thingy} googlemail dot com">William Hart</a>, <a href="http://groups.google.com/group/nemo-devel?hl=en">nemo-devel mailing list</a>.</i></p>
 
-<p><i>This site is hosted at <a href="http://arithmeticon.sagemath.org/">arithmeticon.sagemath.org</a> thanks to William Stein and the University of Washington.</i></p>
-
 <p>Logo background due to Giacomo Merculiano.</p>
 </div>
 

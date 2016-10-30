@@ -32,7 +32,6 @@ number of users. Some of these could make good student projects (or in some case
 <li>Implement multivariate rational functions</li>
 <li>Implement generic Puiseux series with automatic inflation/deflation</li>
 <li>Add the capped absolute model of power series</li>
-<li>Wrap the <a href="http://fredrikj.net/arb/">Arb</a> library (it is already built as part of the Nemo build process)</li>
 <li>Implement generic Hermite Normal Form and Popov form</li>
 <li>Interface with Gap or wrap libgap</li>
 <li>Implement symbolic expressions</li>

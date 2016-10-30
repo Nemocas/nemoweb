@@ -1,5 +1,9 @@
 <h2>News</h2>
 
+<p>2016-07-26: Nemo-0.5 is released. This adds Arb polynomials and matrices,
+Flint matrices over Q and nullspace over Z using HNF, plus a range of fixes.
+The abstract type hierarchy has also been redesigned.</p>
+
 <p>2015-12-04: Nemo-0.4 is released. This extends the generic matrix algorithms implemented in Nemo, plus adds a range of minor fixes and functionality.</p>
 
 <p>2015-10-10: <a href="https://cloud.sagemath.org/">SageMathCloud</a> supports Nemo in Jupyter notebooks using the Julia kernel. Thanks to William Stein!</p>

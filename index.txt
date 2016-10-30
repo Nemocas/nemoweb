@@ -1,8 +1,8 @@
 <h2>Overview</h2>
 
 <p>Nemo is a computer algebra package for the Julia programming language, maintained by
-<a href="mailto:goodwillhart {at_thingy} googlemail dot com">William Hart</a> with code
-by William Hart, Tommy Hofmann, Claus Fieker, Fredrik Johansson,
+<a href="mailto:goodwillhart {at_thingy} googlemail dot com">William Hart</a>,
+Tommy Hofmann, Claus Fieker and Fredrik Johansson with additional code by
 Oleksandr Motsak and other
 <a href="http://nemocas.org/authors.html">contributors</a>.</p>
 

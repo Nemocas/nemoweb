@@ -14,17 +14,17 @@ and Tommy Hofmann.</p>
 Pari wrapper, initial generic modules and overall design (supported by
 DFG Priority programme SPP1489)</li>
 
-<li>Tommy Hofmann -- fq_poly, fq_nmod_poly, nmod_mat and nmod_poly
+<li>Tommy Hofmann -- maintainer, fq_poly, fq_nmod_poly, nmod_mat and nmod_poly
 modules, plus numerous (also one of the main authors of Hecke)
 patches</li>
 
-<li>Claus Fieker -- numerous patches to build system, polynomial,
+<li>Claus Fieker -- maintainer, numerous patches to build system, polynomial,
 linear algebra and number fields code (also one of the main authors of
 Hecke and supervisor of student projects using Nemo)
 </li>
 
-<li>Fredrik Johansson -- polynomial truncation and mullow, Chebyshev
-polynomials and exp for power series</li>
+<li>Fredrik Johansson -- maintainer, polynomial truncation and mullow,
+Chebyshev polynomials and exp for power series</li>
 
 <li>Oleksandr Motsak -- Initial Singular wrapper</li>
 </ul>

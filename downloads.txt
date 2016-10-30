@@ -2,6 +2,8 @@
 
 <p>Nemo:</p>
 <ul> 
+<li>2016-07-26 <b><a href="https://github.com/wbhart/Nemo.jl">Nemo-0.5</a></b>,
+documentation: <b><a href="http://nemocas.github.io/Nemo.jl/latest/">Documentation</a></b> (Nemo-0.5)</li>
 <li>2015-12-04 <b><a href="https://github.com/wbhart/Nemo.jl">Nemo-0.4</a></b>,
 documentation: <b><a href="nemo-0.4.pdf">nemo-0.4.pdf</a></b> (Nemo-0.4)</li>
 <li>2015-09-26 <b><a href="https://github.com/wbhart/Nemo.jl">Nemo-0.3.1</a></b>, 
