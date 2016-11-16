@@ -215,8 +215,8 @@ Flint. Julia code can be quite easy to port to C in certain circumstances.</p>
 <div align="center">
 
 <table class="benchmark">
-<tr><th>SageMath 6.9</th> <th>Pari/GP 2.7.4</th>      <th>Magma V2.21-4</th>     <th>Nemo-0.4</th></tr>
-<tr><td>0.20s</td>              <td>0.58s</td>              <td>0.06s</td>            <td>0.04s</td></tr>
+<tr><th>SageMath 6.9</th> <th>Pari/GP 2.7.4</th>      <th>Magma V2.21-4</th>     <th>Giac-1.2.2</th> <th>Nemo-0.4</th></tr>
+<tr><td>0.20s</td>              <td>0.58s</td>              <td>0.06s</td>        <td>0.06s</td>    <td>0.04s</td></tr>
 </table>
 
 </div>
