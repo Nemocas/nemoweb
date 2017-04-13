@@ -9,7 +9,6 @@ Oleksandr Motsak and other
 <p>The Nemo code written in Julia is licensed under the BSD license and it makes use of GPL and
 LGPL C/C++ libraries such as <a href="http://flintlib.org/">Flint</a>,
 <a href=https://github.com/wbhart/antic>Antic</a>,
-<a href="http://pari.math.u-bordeaux.fr/">Pari</a>, 
 <a href="http://gmplib.org/">GMP</a>/<a href="http://mpir.org/">MPIR</a>, 
 <a href="http://mpfr.org/">MPFR</a>, <a href="http://www.singular.uni-kl.de/">Singular</a> and <a href="http://fredrikj.net/arb/">Arb</a>.</p>
 
