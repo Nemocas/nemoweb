@@ -2,6 +2,8 @@
 
 <p>Nemo:</p>
 <ul> 
+<li>2016-04-13 <b><a href="https://github.com/Nemocas/Nemo.jl">Nemo-0.6</a></b>,
+documentation: <b><a href="http://nemocas.github.io/Nemo.jl/latest/">Documentation</a></b> (Nemo-0.6)</li>
 <li>2016-07-26 <b><a href="https://github.com/wbhart/Nemo.jl">Nemo-0.5</a></b>,
 documentation: <b><a href="http://nemocas.github.io/Nemo.jl/latest/">Documentation</a></b> (Nemo-0.5)</li>
 <li>2015-12-04 <b><a href="https://github.com/wbhart/Nemo.jl">Nemo-0.4</a></b>,
@@ -12,7 +14,7 @@ documentation: <b><a href="nemo-0.3.pdf">nemo-0.3.pdf</a></b> (Nemo-0.3)</li>
 
 <p>To obtain Nemo, follow these steps:</p>
 <ul> 
-<li>Install <a href="http://julialang.org/downloads/#current-release-v041">Julia-0.4</a> or later.</li>
+<li>Install <a href="http://julialang.org/downloads/">Julia-0.5</a> or later.</li>
 <li>julia> Pkg.add("Nemo")</li>
 <li>julia> using Nemo</li>
 </ul> 
