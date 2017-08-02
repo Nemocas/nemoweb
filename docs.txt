@@ -7,23 +7,3 @@
 <li>2015-12-04 <b><a href="nemo-0.4.pdf">nemo-0.4.pdf</a></b> (Nemo-0.4)</li>
 <li>2015-09-26 <b><a href="nemo-0.3.pdf">nemo-0.3.pdf</a></b> (Nemo-0.3)</li>
 </ul> 
-
-<p>To obtain Nemo, follow these steps:</p>
-<ul> 
-<li>Install <a href="http://julialang.org/downloads/">Julia-0.5</a> or later.</li>
-<li>julia> Pkg.add("Nemo")</li>
-<li>julia> using Nemo</li>
-</ul> 
-
-<p>To run the Nemo test suite:</p>
-<ul>
-<li>julia> using Nemo</li>
-<li>julia> Pkg.test("Nemo")</li>
-</ul>
-
-<p>If you intend to be a Nemo developer, you will want to switch to the master branch of our repository. This is done by issuing:</p
-<ul>
-<li>julia> Pkg.checkout("Nemo")</li>
-</ul>
-<p>This is not recommended for ordinary users.</p>
-
