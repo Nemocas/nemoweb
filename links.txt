@@ -1,4 +1,4 @@
-<h2>Links and references</h2>
+<h2>References</h2>
 
 <h3>Software using Nemo</h3>
 

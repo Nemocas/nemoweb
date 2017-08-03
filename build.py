@@ -71,7 +71,7 @@ PAGE_BOTTOM = r"""
 </html>
 """
 
-pages = ["index", "news", "features", "benchmarks", "downloads", "development", "authors", "links"]
+pages = ["index", "news", "features", "docs", "benchmarks", "downloads", "development", "authors", "links"]
 
 page_titles = []
 page_texts = []
