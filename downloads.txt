@@ -10,20 +10,27 @@
 
 <p>To obtain Nemo, follow these steps:</p>
 <ul> 
-<li>Install <a href="http://julialang.org/downloads/">Julia-0.5</a> or later.</li>
+<li>Install <a href="http://julialang.org/downloads/">Julia-0.6</a> or later.</li>
 <li>julia> Pkg.add("Nemo")</li>
 <li>julia> using Nemo</li>
 </ul> 
 
+<p>If Nemo doesn't automatically start building, you may have to issue:</p
+<ul>
+<li>julia> Pkg.build("Nemo")</li>
+</ul>
+
 <p>To run the Nemo test suite:</p>
 <ul>
-<li>julia> using Nemo</li>
 <li>julia> Pkg.test("Nemo")</li>
 </ul>
 
-<p>If you intend to be a Nemo developer, you will want to switch to the master branch of our repository. This is done by issuing:</p
+<p>If the standard build above failed, or you wish to be a Nemo developer,
+you can switch to the master branch of our repository. This is done by 
+issuing:</p
 <ul>
 <li>julia> Pkg.checkout("Nemo")</li>
 </ul>
-<p>This is not recommended for ordinary users.</p>
 
+<p>The master development branch usually contains more recent updates and can 
+be more unstable. However, it can sometimes be a lifeline.</p>
