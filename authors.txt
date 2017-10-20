@@ -44,7 +44,7 @@ algebra package, <tt>http://nemocas.org</tt>.
 
 <pre>
 @misc{nemo,
-    author = {C. Fieker, W. Hart, T. Hofmann, F. Johansson},
+    author = {C. Fieker and W. Hart and T. Hofmann and F. Johansson},
     title = {Nemo},
     year = {2015},
     note = {Version 0.3, \url{http://nemocas.org}}
