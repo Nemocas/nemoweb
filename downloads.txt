@@ -2,9 +2,10 @@
 
 <p>Nemo:</p>
 <ul> 
-<li>2016-04-13 <b><a href="https://github.com/Nemocas/Nemo.jl">Nemo-0.6</a></b></li>
-<li>2016-07-26 <b><a href="https://github.com/wbhart/Nemo.jl">Nemo-0.5</a></b></li>
-<li>2015-12-04 <b><a href="https://github.com/wbhart/Nemo.jl">Nemo-0.4</a></b></li>
+<li>2017-12-31 <b><a href="https://github.com/Nemocas/Nemo.jl/tree/v0.7.3">Nemo-0.7.3</a></b></li>
+<li>2016-04-13 <b><a href="https://github.com/Nemocas/Nemo.jl/tree/v0.6">Nemo-0.6</a></b></li>
+<li>2016-07-26 <b><a href="https://github.com/wbhart/Nemo.jl/tree/v0.5">Nemo-0.5</a></b></li>
+<li>2015-12-04 <b><a href="https://github.com/wbhart/Nemo.jl/tree/0.4">Nemo-0.4</a></b></li>
 <li>2015-09-26 <b><a href="https://github.com/wbhart/Nemo.jl">Nemo-0.3.1</a></b></li>
 </ul> 
 
@@ -15,7 +16,7 @@
 <li>julia> using Nemo</li>
 </ul> 
 
-<p>If Nemo doesn't automatically start building, you may have to issue:</p
+<p>If Nemo doesn't automatically start building, you may have to issue:</p>
 <ul>
 <li>julia> Pkg.build("Nemo")</li>
 </ul>
@@ -27,7 +28,7 @@
 
 <p>If the standard build above failed, or you wish to be a Nemo developer,
 you can switch to the master branch of our repository. This is done by 
-issuing:</p
+issuing:</p>
 <ul>
 <li>julia> Pkg.checkout("Nemo")</li>
 </ul>

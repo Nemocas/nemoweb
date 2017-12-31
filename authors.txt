@@ -30,24 +30,28 @@ Chebyshev polynomials and exp for power series</li>
 <h3>Citing Nemo</h3>
 
 <p>If your research depends on computations done with Nemo,
-please consider giving us a formal citation.</p>
-
-<p>At this stage, please cite the software itself
-(optionally a specific version of Nemo),
-for example using the following format:</p>
+please consider giving us a formal citation:</p>
 
 <ul>
-<li>C. Fieker, W. Hart, T. Hofmann, F. Johansson et. al. the Nemo computer
-algebra package, <tt>http://nemocas.org</tt>.
+<li>Claus Fieker, William Hart, Tommy Hofmann and Fredrik Johansson,
+<a href="http://doi.acm.org/10.1145/3087604.3087611">Nemo/Hecke: Computer Algebra and Number Theory Packages for the Julia
+Programming Language</a>. In: Proceedings of ISSAC '17, pages 157&ndash;164, New York, NY, USA, 2017. ACM.
 </li>
 </ul>
 
 <pre>
-@misc{nemo,
-    author = {C. Fieker and W. Hart and T. Hofmann and F. Johansson},
-    title = {Nemo},
-    year = {2015},
-    note = {Version 0.3, \url{http://nemocas.org}}
+@inproceedings{nemo,
+    author = {Fieker, Claus and Hart, William and Hofmann, Tommy and Johansson, Fredrik},
+     title = {Nemo/Hecke: Computer Algebra and Number Theory Packages for the Julia Programming Language},
+ booktitle = {Proceedings of the 2017 ACM on International Symposium on Symbolic and Algebraic Computation},
+    series = {ISSAC '17},
+      year = {2017},
+     pages = {157--164},
+  numpages = {8},
+       url = {http://doi.acm.org/10.1145/3087604.3087611},
+       doi = {10.1145/3087604.3087611},
+ publisher = {ACM},
+   address = {New York, NY, USA},
 }
 </pre>
 

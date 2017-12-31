@@ -3,7 +3,8 @@
 
 <p>Nemo:</p>
 <ul> 
-<li>Current <b><a href="http://nemocas.github.io/Nemo.jl/latest/">Documentation</a></b> (Nemo-0.6)</li>
+<li>Current <b><a
+href="http://nemocas.github.io/Nemo.jl/latest/">Documentation</a></b>(Nemo-0.7.3)</li>
 <li>2015-12-04 <b><a href="nemo-0.4.pdf">nemo-0.4.pdf</a></b> (Nemo-0.4)</li>
 <li>2015-09-26 <b><a href="nemo-0.3.pdf">nemo-0.3.pdf</a></b> (Nemo-0.3)</li>
 </ul> 
