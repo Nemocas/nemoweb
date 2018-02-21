@@ -1,13 +1,14 @@
 <h2>Features</h2>
 
-<p>Nemo is a Julia package which contains implementations of generic algorithms
-and wrappers of C/C++ libraries. Below we describe some of the features.</p>
+<p>Nemo is a Julia package which contains wrappers of C/C++ libraries. It also
+reexports all the functionality of AbstractAlgebra.jl, which provides generic
+structures and algorithms. Below we describe some of the features.</p>
 
-<h3>Nemo generics</h3>
+<h3>AbstractAlgebra.jl generics</h3>
 
 <ul>
-<li>Power series</li>
-<li>Polynomials</li>
+<li>Power series and Laurent series</li>
+<li>Univariate and multivariate Polynomials</li>
 <li>Residue rings</li>
 <li>Matrices</li>
 <li>Fraction fields</li>
@@ -56,7 +57,20 @@ and wrappers of C/C++ libraries. Below we describe some of the features.</p>
 
 <h3>Libraries that use Nemo</h3>
 
-<h4>Hecke</h4>
+<h4>Hecke.jl</h4>
 
-<p>Hecke provides maximal orders, class groups, sparse linear algebra and
-various other things related to algebraic number theory.</p>
+<p>Hecke.jl provides ideals, orders, class groups, sparse linear algebra, class
+field theory and various other things related to algebraic number theory.</p>
+
+<a
+href="https://github.com/thofma/Hecke.jl">https://github.com/thofma/Hecke.jl</a>
+
+<h4>Singular.jl</h4>
+
+<p>Singular.jl provides a wrapper of the Singular kernel, providing access to
+fast Groebner basis code, multivariates designed for GB's and ideals, modules
+and the like, over such polynomial rings.</p>
+
+<a
+href="https://github.com/oscar-system/Singular.jl/">https://github.com/oscar-system/Singular.jl/</a>
+

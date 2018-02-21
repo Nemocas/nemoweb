@@ -4,10 +4,15 @@
 
 <ul>
 
-<li><a href="https://github.com/thofma/hecke">Hecke</a> uses Nemo for number fields and basic
+<li><a href="https://github.com/thofma/hecke">Hecke.jl</a> uses Nemo for number fields and basic
 arithmetic including Hermite normal form.</li>
 
-<li><a href="http://cloud.sagemath.com/">SageMathCloud</a> supports Nemo in Jupyter notebooks with the Julia kernel.</li>
+<li><a href="https://github.com/Nemocas/Singular.jl">Singular.jl</a> provides
+a C++ wrapper of the Singular kernel and is tightly integrated with Nemo,
+supporting all Nemo field types as coefficient rings.</li>
+
+<li><a href="http://cloud.sagemath.com/">SageMathCloud</a> supports Julia in
+Jupyter notebooks with a Julia kernel. Nemo is available.</li>
 
 </ul>
 

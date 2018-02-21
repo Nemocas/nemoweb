@@ -1,5 +1,8 @@
 <h2>News</h2>
 
+<p>2018-02-21: Nemo is split into Nemo.jl (wrappers of Flint, Arb and Antic)
+and AbstractAlgebra.jl (Generics)</p>
+
 <p>2017-12-31: Nemo-0.7.3 is released!</p>
 
 <p>2017-04-13: Nemo-0.6 is released. This adds absolute and relative power series, plus a range of minor fixes and functionality.</p>

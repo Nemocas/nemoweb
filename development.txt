@@ -11,6 +11,17 @@
  
 <p>The current development branch within the repository is "master".</p> 
 
+<p>Work on generic algorithms and structures is done within the
+AbstractAlgebra.jl project, which Nemo uses for all its generic
+functionality.</p>
+
+<pre>git clone https://github.com/Nemocas/AbstractAlgebra.jl.git</pre>
+
+<p>If you want to browse the repository online, or fork it on GitHub, it can
+be accessed here:</p>
+<a
+href="https://github.com/Nemocas/AbstractAlgebra.jl">https://github.com/Nemocas/AbstractAlgebra.jl</a>
+
 <p>Nemocas is a community organization on GitHub managed by four individuals who can accept pull requests. To contribute to Nemo, simply issue a pull request against the GitHub repository above or open an issue on the GitHub issue tracker.</p>
 
 <h3>Mailing list</h3>
@@ -31,12 +42,11 @@ number of users. Some of these could make good student projects (or in some case
 <ul>
 <li>Implement multivariate rational functions</li>
 <li>Implement generic Puiseux series with automatic inflation/deflation</li>
-<li>Add the capped absolute model of power series</li>
+<li>Add the capped absolute model of power series for more modules</li>
+<li>Implement versions of Laurent series that use Flint</li>
 <li>Implement generic Hermite Normal Form and Popov form</li>
 <li>Interface with Gap or wrap libgap</li>
 <li>Implement symbolic expressions</li>
-<li>Implement generic sparse polynomials</li>
-<li>Make generic capped relative power series use unit/valuation representation</li>
 <li>Implement sparse matrix algorithms</li>
 <li>Implement fast representation for small finite fields (possibly in Flint)</li>
 <li>Wrap Singular for Groebner basis, ideal and integral kernel operations</li>
