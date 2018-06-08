@@ -1,15 +1,21 @@
 <h2>Development</h2>
 
-<h3>Source (git repository)</h3>
+<h3>Source (git repositories)</h3>
+
+<h4>Nemo</h4>
 
 <p>You can get a clone of the git development repo with:</p> 
 
 <pre>git clone https://github.com/Nemocas/Nemo.jl.git</pre> 
  
-<p>If you want to browse the repository online, or fork it on GitHub, it can be accessed here:</p> 
-<a href="https://github.com/Nemocas/Nemo.jl">https://github.com/Nemocas/Nemo.jl</a> 
+<p>If you want to browse the repository online, or fork it on GitHub, it can be accessed here:
+<a href="https://github.com/Nemocas/Nemo.jl">https://github.com/Nemocas/Nemo.jl</a></p>
+<p>The GitHub issue tracker can be accessed here:
+<a href="https://github.com/Nemocas/Nemo.jl/issues">https://github.com/Nemocas/Nemo.jl/issues</a></p>
  
 <p>The current development branch within the repository is "master".</p> 
+
+<h4>AbstractAlgebra</h4>
 
 <p>Work on generic algorithms and structures is done within the
 AbstractAlgebra.jl project, which Nemo uses for all its generic
@@ -18,11 +24,12 @@ functionality.</p>
 <pre>git clone https://github.com/Nemocas/AbstractAlgebra.jl.git</pre>
 
 <p>If you want to browse the repository online, or fork it on GitHub, it can
-be accessed here:</p>
-<a
-href="https://github.com/Nemocas/AbstractAlgebra.jl">https://github.com/Nemocas/AbstractAlgebra.jl</a>
+be accessed here:
+<a href="https://github.com/Nemocas/AbstractAlgebra.jl">https://github.com/Nemocas/AbstractAlgebra.jl</a></p>
+<p>The GitHub issue tracker can be accessed here:
+<a href="https://github.com/Nemocas/AbstractAlgebra.jl/issues">https://github.com/Nemocas/AbstractAlgebra.jl/issues</a></p>
 
-<p>Nemocas is a community organization on GitHub managed by four individuals who can accept pull requests. To contribute to Nemo, simply issue a pull request against the GitHub repository above or open an issue on the GitHub issue tracker.</p>
+<p><a href="https://github.com/Nemocas">Nemocas</a> is a community organization on GitHub managed by four individuals who can accept pull requests. To contribute to Nemo, simply issue a pull request against the GitHub repository above or open an issue on the GitHub issue tracker.</p>
 
 <h3>Mailing list</h3>
 
@@ -31,10 +38,7 @@ group:</p>
 <a href="http://groups.google.com/group/nemo-devel">nemo-devel Google Group</a>
 
 <h3>Development ideas</h3>
-
-<p>Our GitHub issue tracker: 
-<a href="https://github.com/wbhart/nemo.jl/issues">https://github.com/wbhart/nemo.jl/issues</a></p>
-
+ 
 <p>Here is a list of ideas for development projects that would be highly valuable to a large
 number of users. Some of these could make good student projects (or in some cases, research projects).
 </p>
