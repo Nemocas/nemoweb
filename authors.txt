@@ -24,8 +24,8 @@ Hecke and supervisor of student projects using Nemo)
 <li>Fredrik Johansson -- maintainer, polynomial truncation and mullow,
 Chebyshev polynomials and exp for power series</li>
 
-<li>Oleksandr Motsak -- Initial Singular wrapper</li>
-</ul>
+<li>Marek Kaluba -- Contributor of permutation groups, Young Tableux and
+characters code to AbstractAlgebra.jl.</ul>
 
 <h3>Citing Nemo</h3>
 

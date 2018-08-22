@@ -1,5 +1,7 @@
 <h2>News</h2>
 
+<p>2018-08-22: Nemo-0.9 is released. This makes Nemo work with julia 1.0.
+
 <p>2018-02-21: Nemo is split into Nemo.jl (wrappers of Flint, Arb and Antic)
 and AbstractAlgebra.jl (Generics)</p>
 
